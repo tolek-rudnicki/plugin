@@ -1,0 +1,7 @@
+main: me.tolekpro.mainpackage.Main
+name: server
+version: 1.0
+author: tolek_pro
+
+commands:
+  agui:
